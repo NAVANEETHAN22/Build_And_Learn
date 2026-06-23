@@ -42,6 +42,7 @@ This project aims to bridge the gap between theoretical learning and practical e
 
 <img width="1920" height="1032" alt="7" src="https://github.com/user-attachments/assets/6c5e6ae1-f4c0-4294-aa3b-a37c45957fc7" />
 
+---
 
 ## Project Architecture
 
@@ -65,8 +66,3 @@ The application currently includes:
 
 ---
 
-
-
-├── Config/
-├── Source/
-└── README.md
